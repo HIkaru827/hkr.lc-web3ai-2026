@@ -22,6 +22,6 @@
 
 ## 提出メモ
 
-- Discord ID: `__hkr.lc`
+- Discord ID: `hkr.lc`
 - GitHub リポジトリ名: `hkr.lc-web3ai-2026`
 - VPC スクリーンショット: `assets/vpc-v1.png`
