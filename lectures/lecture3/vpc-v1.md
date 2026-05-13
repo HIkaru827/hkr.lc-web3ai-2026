@@ -1,4 +1,4 @@
-# VPC v1 - __hkr.lc
+# VPC v1 - hkr.lc
 
 ![VPC v1](../../assets/vpc-v1.png)
 
